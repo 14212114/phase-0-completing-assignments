@@ -146,11 +146,12 @@ to access the assignment files.
 $ cd phase-0-completing-assignments
 ```
 
-Now type `code .` to open up a text editor window with access to all of the
+Now type `code .` to open up a text editor 
+window with access to all of the
 assignment's files. These instructions are now also available on your local
 machine in `README.md`.
 
-> Note: the first time you open a directory in Visual Studio Code, you'll see a
+> Note: the first time you open a directory in Visual Studio Code, you'll see al
 > message asking "Do you trust the authors of the files in this folders?" This
 > is a [security feature][workspace-trust] of Visual Studio Code. It's safe to
 > choose "Yes", and we recommend selecting the "Trust the authors of all the
